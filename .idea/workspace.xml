@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d919870c-d35d-4083-9348-8758b8c452f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XxpPK79xfZVTnMCUOf61REW6xL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.Future1">
+    <configuration name="Future1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Future1" />
+      <module name="scala_core" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="scala_core" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloNextBeat" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HelloNextBeat" />
+      <module name="scala_core" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="scala_core" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPG" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="RPG" />
+      <module name="scala_core" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Future1" />
+        <item itemvalue="Application.RPG" />
+        <item itemvalue="Application.HelloNextBeat" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="scala_core" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="learn_scala [file:/Users/tiendg/Desktop/nextbeat/learn_scala/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="scala_core-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3163995149864" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="753646978" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../sitter_github/lib-sitter-v2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sitter_github/sit-web-main" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sitter_github/sitter-web-main" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d919870c-d35d-4083-9348-8758b8c452f1" name="Default Changelist" comment="" />
+      <created>1581997574881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581997574881</updated>
+      <workItem from="1581997584921" duration="2636000" />
+      <workItem from="1583376654102" duration="10206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="919" y="266" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583378260303">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="919" y="266" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1920.977@0.23.1920.977" timestamp="1583378260303" />
+    <state width="1358" height="250" key="GridCell.Tab.0.bottom" timestamp="1583405389607">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1583405389607" />
+    <state width="1358" height="250" key="GridCell.Tab.0.center" timestamp="1583405389606">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1583405389606" />
+    <state width="1358" height="250" key="GridCell.Tab.0.left" timestamp="1583405389605">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1583405389605" />
+    <state width="1358" height="250" key="GridCell.Tab.0.right" timestamp="1583405389606">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1583405389606" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1583379820158">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1920.977@0.23.1920.977" timestamp="1583379820158" />
+    <state x="389" y="238" key="new project wizard" timestamp="1581997703786">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="389" y="238" key="new project wizard/0.23.1920.977@0.23.1920.977" timestamp="1581997703786" />
+  </component>
+</project>
