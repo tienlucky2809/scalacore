@@ -15,10 +15,15 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1XxpPK79xfZVTnMCUOf61REW6xL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -130,6 +135,7 @@
       <updated>1581997574881</updated>
       <workItem from="1581997584921" duration="2636000" />
       <workItem from="1583376654102" duration="10206000" />
+      <workItem from="1583747583679" duration="5000" />
     </task>
     <servers />
   </component>
