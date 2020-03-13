@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d919870c-d35d-4083-9348-8758b8c452f1" name="Default Changelist" comment="" />
+    <list default="true" id="d919870c-d35d-4083-9348-8758b8c452f1" name="Default Changelist" comment="update scala core">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CollectionDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/LoginEither.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PromiseStudy.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PromisingFutures.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Future1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Future1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/FututeDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/FututeDemo.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,39 +42,39 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.Future1">
-    <configuration name="Future1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Future1" />
+  <component name="RunManager" selected="Application.LoginEither">
+    <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionDemo" />
       <module name="scala_core" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
+    <configuration name="FututeDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="FututeDemo" />
       <module name="scala_core" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloNextBeat" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="HelloNextBeat" />
+    <configuration name="LoginEither" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="LoginEither" />
       <module name="scala_core" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <configuration name="PromiseStudy" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PromiseStudy" />
       <module name="scala_core" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RPG" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="RPG" />
+    <configuration name="PromisingFutures" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PromisingFutures" />
       <module name="scala_core" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Future1" />
-        <item itemvalue="Application.RPG" />
-        <item itemvalue="Application.HelloNextBeat" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.LoginEither" />
+        <item itemvalue="Application.PromiseStudy" />
+        <item itemvalue="Application.FututeDemo" />
+        <item itemvalue="Application.PromisingFutures" />
+        <item itemvalue="Application.CollectionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -135,34 +143,53 @@
       <updated>1581997574881</updated>
       <workItem from="1581997584921" duration="2636000" />
       <workItem from="1583376654102" duration="10206000" />
-      <workItem from="1583747583679" duration="5000" />
+      <workItem from="1583747583679" duration="862000" />
+      <workItem from="1583912616010" duration="3397000" />
+      <workItem from="1583978267641" duration="9176000" />
+      <workItem from="1584063179238" duration="351000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update scala core" />
+    <option name="LAST_COMMIT_MESSAGE" value="update scala core" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="919" y="266" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583378260303">
+    <state x="919" y="266" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583985346811">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="919" y="266" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1920.977@0.23.1920.977" timestamp="1583378260303" />
-    <state width="1358" height="250" key="GridCell.Tab.0.bottom" timestamp="1583405389607">
+    <state x="919" y="266" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1920.977@0.23.1920.977" timestamp="1583985346811" />
+    <state x="734" y="95" key="CommitChangelistDialog2" timestamp="1584063608773">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1358" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1583405389607" />
-    <state width="1358" height="250" key="GridCell.Tab.0.center" timestamp="1583405389606">
+    <state x="734" y="95" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1584063608773" />
+    <state width="1358" height="264" key="GridCell.Tab.0.bottom" timestamp="1584009639125">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1358" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1583405389606" />
-    <state width="1358" height="250" key="GridCell.Tab.0.left" timestamp="1583405389605">
+    <state width="1358" height="264" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1584009639125" />
+    <state width="1358" height="264" key="GridCell.Tab.0.center" timestamp="1584009639125">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1358" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1583405389605" />
-    <state width="1358" height="250" key="GridCell.Tab.0.right" timestamp="1583405389606">
+    <state width="1358" height="264" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1584009639125" />
+    <state width="1358" height="264" key="GridCell.Tab.0.left" timestamp="1584009639124">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1358" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1583405389606" />
+    <state width="1358" height="264" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1584009639124" />
+    <state width="1358" height="264" key="GridCell.Tab.0.right" timestamp="1584009639125">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1358" height="264" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1584009639125" />
+    <state x="677" y="131" key="SettingsEditor" timestamp="1583978841597">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="677" y="131" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1583978841597" />
+    <state x="768" y="232" key="Vcs.Push.Dialog.v2" timestamp="1583748624473">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="768" y="232" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1583748624473" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1583379820158">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
