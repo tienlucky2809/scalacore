@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d919870c-d35d-4083-9348-8758b8c452f1" name="Default Changelist" comment="update scala core">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/CollectionDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/LoginEither.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PromiseStudy.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PromisingFutures.scala" afterDir="false" />
+    <list default="true" id="d919870c-d35d-4083-9348-8758b8c452f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Future1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Future1.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/FututeDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/FututeDemo.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,8 +140,16 @@
       <workItem from="1583747583679" duration="862000" />
       <workItem from="1583912616010" duration="3397000" />
       <workItem from="1583978267641" duration="9176000" />
-      <workItem from="1584063179238" duration="351000" />
+      <workItem from="1584063179238" duration="1276000" />
     </task>
+    <task id="LOCAL-00001" summary="update scala core">
+      <created>1584063651909</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584063651909</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,10 +164,10 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="919" y="266" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1920.977@0.23.1920.977" timestamp="1583985346811" />
-    <state x="734" y="95" key="CommitChangelistDialog2" timestamp="1584063608773">
+    <state x="734" y="95" key="CommitChangelistDialog2" timestamp="1584063651009">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="734" y="95" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1584063608773" />
+    <state x="734" y="95" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1584063651009" />
     <state width="1358" height="264" key="GridCell.Tab.0.bottom" timestamp="1584009639125">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -186,10 +188,10 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="677" y="131" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1583978841597" />
-    <state x="768" y="232" key="Vcs.Push.Dialog.v2" timestamp="1583748624473">
+    <state x="768" y="232" key="Vcs.Push.Dialog.v2" timestamp="1584063724313">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="768" y="232" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1583748624473" />
+    <state x="768" y="232" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1584063724313" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1583379820158">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
